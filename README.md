@@ -1,8 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLJH3904&count_bg=%233D63C8&title_bg=%23555555&icon=protocols-dot-io.svg&icon_color=%23A293D5&title=LJH&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi I'm LEE JH👋
 ![LJH3904's GitHub stats](https://github-readme-stats.vercel.app/api?username=LJH3904&show_icons=true&theme=dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dasom8899)](https://solved.ac/dasom8899/)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dasom8899)](https://solved.ac/dasom8899/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LJH3904&layout=compact&theme=dark)
 
 

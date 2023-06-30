@@ -1,16 +1,16 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLJH3904&count_bg=%233D63C8&title_bg=%23555555&icon=protocols-dot-io.svg&icon_color=%23A293D5&title=LJH&edge_flat=false)](https://hits.seeyoufarm.com)
-### Hi I'm LEE JH👋
+### 🌱 Rate 🌱
 ![LJH3904's GitHub stats](https://github-readme-stats.vercel.app/api?username=LJH3904&show_icons=true&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dasom8899)](https://solved.ac/dasom8899/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LJH3904&layout=compact&theme=dark)
 
 
-### Languages
+### 💬 Languages
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-2F2625.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
-### Tools
+### 🔭 Tools
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)

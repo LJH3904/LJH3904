@@ -7,6 +7,8 @@
 
 ## 💻 Languages
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-2F2625.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
+
 ## 💻 Tools
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)

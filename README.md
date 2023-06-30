@@ -5,11 +5,11 @@
 
 
 
-## 💻 Languages
+## Languages
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-2F2625.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
-## 💻 Tools
+## Tools
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)

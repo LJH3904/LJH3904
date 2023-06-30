@@ -1,7 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLJH3904&count_bg=%233D63C8&title_bg=%23555555&icon=protocols-dot-io.svg&icon_color=%23A293D5&title=LJH&edge_flat=false)](https://hits.seeyoufarm.com)
-## 안녕하세요 HI 
+
+
+## 안녕하세요.🙇🏻 HI.👏
 - 내 특별한 저장소에 온걸 환영해 친구야 
 - Welcome to my special repository
+
+
+
 ### 💬 Languages
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-2F2625.svg?&style=for-the-badge&logo=Java&logoColor=white)

@@ -5,7 +5,7 @@
 - 내 특별한 저장소에 온걸 환영해 친구야 
 - Welcome to my special repository
 
-“ 프로그램은 섹X와 같다. 한 번의 실수로 평생을 지원해야 한다. ”
+“ 프로그램은 🥹 와 같다. 한 번의 실수로 평생을 지원해야 한다. ”
 - Michael Sinz
 
 ### 💬 Languages

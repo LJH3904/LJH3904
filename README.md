@@ -1,5 +1,5 @@
 ### Hi there 👋
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브 닉네임&show_icons=true&theme=스타일)
+![LJH3904's GitHub stats](https://github-readme-stats.vercel.app/api?username=LJH3904&show_icons=true&theme=dark)
 <!--
 **LJH3904/LJH3904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -24,7 +24,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LJH3904&layout=compact&theme=dark)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dasom8899)](https://solved.ac/dasom8899/)
 
 
 

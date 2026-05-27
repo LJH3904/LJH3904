@@ -17,12 +17,6 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 
 
-### 🌱 Rate 🌱
-![LJH3904's GitHub stats](https://github-readme-stats.vercel.app/api?username=LJH3904&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LJH3904&layout=compact&theme=dark)
-
-
-
 
 
 # :mailbox_with_mail: Contacts
